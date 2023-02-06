@@ -1,0 +1,41 @@
+.container-2{
+    background-color:#D9D9D9; 
+    overflow: auto;
+    
+  
+}
+
+
+.ADD{
+  
+  display:flex;
+  float:left;
+}
+.logout{
+  display:flex;
+  float:right;
+ 
+  
+}
+.navbar{
+ display:flex;
+}
+
+.center-nav-item{
+  margin:0 auto;
+}
+
+  
+
+#doc{
+font-style: Medium;
+font-size: 14px;
+line-height: 16px;
+line-height: 98%;
+align-items: Left;
+vertical-align: Top;
+letter-spacing: 1.25px;
+}
+
+
+

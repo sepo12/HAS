@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "learn how node js and express interact with postgres",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "null",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.20",
+    "pg": "^8.9.0"
+  }
+}
